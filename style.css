@@ -69,7 +69,7 @@ footer {
 #mobile-menu > ul > a,
 #desktop-menu > ul > a {
     color: white;
-    font-family: "Arial Black";
+    font-family: "Arial Black", Arial;
     text-decoration: none;
     padding: 0.5em 0;
 }
@@ -124,6 +124,7 @@ footer {
 
 @media (min-width: 768px) {
     body {
+        background-color: #191a24;
         background-image: url(img/bg3.jpg);
         flex-direction: row;
         justify-content: space-evenly;
