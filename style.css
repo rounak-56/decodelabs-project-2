@@ -5,8 +5,8 @@
 }
 
 body {
-    min-height: 100vh;
-    min-height: 100dvh;
+    height: 100vh;
+    height: 100dvh;
     background-image: url(img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
