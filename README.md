@@ -2,7 +2,7 @@
 
 A sleek, immersive landing page built around the highly anticipated release of Grand Theft Auto VI. This project serves as the second milestone for the DecodeLabs frontend internship, transitioning from fixed-dimension layouts (Project 1) to a fully responsive, Mobile-First architecture.
 
-> **[View Live Demo Here](https://rounak-56.github.io/Decodelabs-project-2/)**
+> **[View Live Demo Here](https://rounak-56.github.io/decodelabs-project-2/)**
 
 <br>
 
